@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\UnitTest1\Debug\Pr_5.1.exe.lastcodeanalysissucceeded
+C:\Users\User\source\repos\Pr_5.1\Pr_5.1\Debug\NativeCodeAnalysis.read.1.tlog
